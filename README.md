@@ -8,7 +8,7 @@ Repository of Maven artifacts not yet published to Maven Central.
 ```xml
 <repositories>
     <repository>
-        <id>opentosca-mvn-repoo</id>
+        <id>opentosca-mvn-repo</id>
         <url>https://raw.github.com/OpenTOSCA/mvn-repo/</url>
         <snapshots>
             <enabled>true</enabled>
