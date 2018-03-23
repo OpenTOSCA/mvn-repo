@@ -9,7 +9,7 @@ Repository of Maven artifacts not yet published to Maven Central.
 <repositories>
     <repository>
         <id>opentosca-mvn-repo</id>        
-        <url>https://raw.github.com/OpenTOSCA/mvn-repo/ustutt</url>
+        <url>https://raw.github.com/OpenTOSCA/mvn-repo/ustutt/</url>
         <snapshots>
             <enabled>true</enabled>
             <updatePolicy>always</updatePolicy>
