@@ -3,14 +3,14 @@
 Repository of Maven artifacts not yet published to Maven Central.
 
 
-### Usage 
+### Usage
 
 ```xml
 <repositories>
     <repository>
         <id>opentosca-mvn-repo</id>
-        <!-- <url>https://raw.github.com/OpenTOSCA/mvn-repo/</url> -->
         <url>https://opentosca.github.io/mvn-repo/</url>
+        <!-- <url>https://raw.github.com/OpenTOSCA/mvn-repo/<branch></url> -->
         <snapshots>
             <enabled>true</enabled>
             <updatePolicy>always</updatePolicy>
