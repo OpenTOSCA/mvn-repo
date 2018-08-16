@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.eclipse.winery</groupId>
+  <artifactId>winery</artifactId>
+  <version>2.0.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180816.125639</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20180816125639</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.0.0-20180816.125639-1</value>
+        <updated>20180816125639</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
