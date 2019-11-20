@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.eclipse.winery</groupId>
+  <artifactId>org.eclipse.winery.yaml.converter</artifactId>
+  <version>2.0.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20191120.150825</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20191120150825</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2.0.0-20191120.150825-1</value>
+        <updated>20191120150825</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.0.0-20191120.150825-1</value>
+        <updated>20191120150825</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>2.0.0-20191120.150825-1</value>
+        <updated>20191120150825</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>2.0.0-20191120.150825-1</value>
+        <updated>20191120150825</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
